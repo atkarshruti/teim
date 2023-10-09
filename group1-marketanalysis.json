@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "group1-marketanalysis",
+  "private_key_id": "13dc75297e39ce3740233d4985dd698e83a45420",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeNCK9nK6NBUVe\nPC4v2H/iila/rvKWPXnB/5wwNbyDMNdkjp7ib4pbihjqFO6K6pEkk4ln+0ZCMHB9\nts7Gm3eJ7H5i9kn+VEO5djEMLRUoPtyzbxP5LQlP0GqzbcKdxFC4UJyNVELWomee\ny/D52MwClLvjzcWaX+Vf+TFlCFEQX1uVuy0UIw4KdQhYqhf8kSgu4eV5RVJwXhxr\n/Uwk1Df0F60OMdYVoQQKTn8vVsXghTq7q/xtUgUtkH9hJYSqSLp9K4EPf7Pb3i59\nA5nfzE+Id2VIvJjCFd12kq9uXq9jrqRs8T3JdbdJvaRNI6mA853hTyUOeNjY8AXh\nLXH++B9/AgMBAAECggEAKwidhpxvMrcDVo3iNmua5eGhlUSeglW4oBfKwaZsX/dS\nL+1HtOqIZTwcaNhGxwzlbGChmOJWCz0n7FpkxsuVabQl8P9zwzXisjk/QEOnJKps\n2HZXpYklpktYKvSpYsb6+hgbbapFACNvMlfhdeUOIYmZzm6z2LlLKJ8dW5E2k9Af\nEjRGjJPwY6Il4dGo1PoMbdCsr9JUogzbK8XDJedWRf5Nb1JCT63N+EnNBBvPcqsl\nCNgVtgRGMjNz95W3DpnnOo6gsDGm6Esi3l/0TmMDpzHLvaQfpWUVbzwBMuQwWr0C\n7WrLv3Y30D0OCV1cVmLoEd4zZQ+how3KRagygO6FyQKBgQDOIYOuvbYuPzG4GeTR\nk0fUuDW7CFx+W/kAD9uHRjX9uo0FSrjgh/Swi0piN5OZiJqDT4drrzmyePRj45PR\nD6D8nEs+ueXekm2ZU3MYH2ZTzxSKugG22kkkA0ojWZLiHqqtHv50qCGYfd4siOna\nOV8x4lvlJRzilk8rlcP7FEAbXQKBgQDEekzv19GC4AF6jQpd/vqyqNiAxIdm7Akh\nWSVcN4tIo0DhcI+U8/WgOLnaG5upAxxzRNZO+KCn+EQTool2xQS9tr7Azr0vxYL5\nzlJyS4e3BZM7/ElGQwFmdTrmFA7jrDBFrTCA7Fb9B2Xj3UdbDSxVENqA0Orv1NaR\n1zsbe74UiwKBgA8xDSFtveV+ps1oqyJ+9kZJJTyZiyeM47cLdCRuGkCO5SHEtgdm\nPbRdL6g5bFleZfTTgamACoKKw4gxF43K1xSG+EyxKq3SoN0x90OJ3OLEWkE3IDU3\ntThAPdCJI3gixnVn2V0DnyY78InbtVBt9gQZKKikqZJRfZg6u2zfuzHJAoGACPqZ\n14AiZ/u6tZIKfj8vz8hdlIzmrzJsPGTpiyxSpjAnv+W3+hOoDvlorOoEFBY7T50+\nuf8swGBdJBSSeaYJUG4wi3knNi6tjKL8K5L+EcQkdWJTKu3W+4qx9V/HSmpNDnIa\nvFmQpCGZa29qWmPgucZ6ZdamVe2BHMscPWZLSn8CgYAyC/nJiTW39JbN6y7mrruN\nHmDi81FSolqR8pwCU1y3mPKgwh2r1T+U/+4/zJ1inwuHs4qbzKX3LSEYZTP+/l/T\n3Y0CDvomUWrANqsJYYjCCdAOwk7tOKqb3H7cr4qSCI/mBWlS1SlDEnBDg6hifzX8\nCZzSDzL1W/E9W4YGch/SAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "group1-marketanalysis@group1-marketanalysis.iam.gserviceaccount.com",
+  "client_id": "115639104899641192431",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/group1-marketanalysis%40group1-marketanalysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
